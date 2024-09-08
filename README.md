@@ -11,13 +11,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://forkify.netlify.app/">
+  <a href="https://projects-forkify-app.netlify.app/">
     <img src="./src/img/favicon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://forkify.netlify.app/">View Demo</a>
+    <a href="https://projects-forkify-app.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -56,8 +56,6 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 - Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
 
-![Forkify preview](./src/img/preview.png) -- Fix Later
-
 ### Built With
 
 - HTML
@@ -88,7 +86,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 ## Getting Started
 
-This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](). or you can find the instructions below
+This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://projects-forkify-app.netlify.app/). or you can find the instructions below
 
 > To get a local copy, follow these simple steps :
 
